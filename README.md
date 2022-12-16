@@ -2,6 +2,7 @@
 
 Ejemplo de propuesta genérica para implementar una arquitectura hexagonal. La estructura de paquetes es la siguiente:
 
+'''
 
 ├── build.gradle
 ├── gradle
@@ -73,4 +74,5 @@ Ejemplo de propuesta genérica para implementar una arquitectura hexagonal. La e
                 └── example
                     └── hexagonaldemo
                         └── HexagonaldemoApplicationTests.java
-
+                        
+'''
